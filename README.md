@@ -43,8 +43,4 @@ O arquivo config.py é responsável por armazenar configurações de funcionamen
 - a seed e os algoritmos e suas configurações
 
 ### main.ipynb
-O arquivo main.ipynb faz a avaliação do db. Caso queira utilizar um db diferente: 
-
-- coloque o csv na pasta './db'.
-- No item 2, mude o db_name para o nome do seu db
-- execute o resto do notebook
+O arquivo main.ipynb faz a avaliação do db.
